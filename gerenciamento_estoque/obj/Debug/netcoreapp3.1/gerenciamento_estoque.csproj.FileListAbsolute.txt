@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\bin\Debug\netcoreapp3.1\gerenciamento_estoque.exe
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\bin\Debug\netcoreapp3.1\gerenciamento_estoque.deps.json
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\bin\Debug\netcoreapp3.1\gerenciamento_estoque.runtimeconfig.json
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\bin\Debug\netcoreapp3.1\gerenciamento_estoque.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\bin\Debug\netcoreapp3.1\gerenciamento_estoque.dll
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\bin\Debug\netcoreapp3.1\gerenciamento_estoque.pdb
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\obj\Debug\netcoreapp3.1\gerenciamento_estoque.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\obj\Debug\netcoreapp3.1\gerenciamento_estoque.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\obj\Debug\netcoreapp3.1\gerenciamento_estoque.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\obj\Debug\netcoreapp3.1\gerenciamento_estoque.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\obj\Debug\netcoreapp3.1\gerenciamento_estoque.dll
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\obj\Debug\netcoreapp3.1\gerenciamento_estoque.pdb
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque\obj\Debug\netcoreapp3.1\gerenciamento_estoque.genruntimeconfig.cache

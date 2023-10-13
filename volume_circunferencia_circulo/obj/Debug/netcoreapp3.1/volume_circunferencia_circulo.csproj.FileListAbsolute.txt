@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\bin\Debug\netcoreapp3.1\volume_circunferencia_circulo.exe
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\bin\Debug\netcoreapp3.1\volume_circunferencia_circulo.deps.json
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\bin\Debug\netcoreapp3.1\volume_circunferencia_circulo.runtimeconfig.json
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\bin\Debug\netcoreapp3.1\volume_circunferencia_circulo.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\bin\Debug\netcoreapp3.1\volume_circunferencia_circulo.dll
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\bin\Debug\netcoreapp3.1\volume_circunferencia_circulo.pdb
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\obj\Debug\netcoreapp3.1\volume_circunferencia_circulo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\obj\Debug\netcoreapp3.1\volume_circunferencia_circulo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\obj\Debug\netcoreapp3.1\volume_circunferencia_circulo.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\obj\Debug\netcoreapp3.1\volume_circunferencia_circulo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\obj\Debug\netcoreapp3.1\volume_circunferencia_circulo.dll
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\obj\Debug\netcoreapp3.1\volume_circunferencia_circulo.pdb
+C:\Users\Lucas\Desktop\CSharp\volume_circunferencia_circulo\obj\Debug\netcoreapp3.1\volume_circunferencia_circulo.genruntimeconfig.cache

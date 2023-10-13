@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gerenciamento_estoque_com_construtor", "gerenciamento_estoque_com_construtor.csproj", "{32CC27CE-6B16-4144-9975-7601A3B55354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CC27CE-6B16-4144-9975-7601A3B55354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CC27CE-6B16-4144-9975-7601A3B55354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CC27CE-6B16-4144-9975-7601A3B55354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CC27CE-6B16-4144-9975-7601A3B55354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6CAA7A6-04C3-48BC-A09E-AC53F189EB82}
+	EndGlobalSection
+EndGlobal

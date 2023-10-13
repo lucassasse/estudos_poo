@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\bin\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.exe
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\bin\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.deps.json
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\bin\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.runtimeconfig.json
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\bin\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\bin\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.dll
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\bin\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.pdb
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\obj\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\obj\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\obj\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\obj\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\obj\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.dll
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\obj\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.pdb
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_estoque_com_construtor\obj\Debug\netcoreapp3.1\gerenciamento_estoque_com_construtor.genruntimeconfig.cache

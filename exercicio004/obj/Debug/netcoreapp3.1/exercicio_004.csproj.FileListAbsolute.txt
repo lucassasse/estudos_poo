@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\bin\Debug\netcoreapp3.1\exercicio_004.exe
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\bin\Debug\netcoreapp3.1\exercicio_004.deps.json
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\bin\Debug\netcoreapp3.1\exercicio_004.runtimeconfig.json
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\bin\Debug\netcoreapp3.1\exercicio_004.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\bin\Debug\netcoreapp3.1\exercicio_004.dll
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\bin\Debug\netcoreapp3.1\exercicio_004.pdb
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\obj\Debug\netcoreapp3.1\exercicio_004.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\obj\Debug\netcoreapp3.1\exercicio_004.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\obj\Debug\netcoreapp3.1\exercicio_004.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\obj\Debug\netcoreapp3.1\exercicio_004.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\obj\Debug\netcoreapp3.1\exercicio_004.dll
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\obj\Debug\netcoreapp3.1\exercicio_004.pdb
+C:\Users\Lucas\Desktop\CSharp\exercicio_004\obj\Debug\netcoreapp3.1\exercicio_004.genruntimeconfig.cache
