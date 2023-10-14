@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gerenciamento_estoque_com_encapsulamento_e_get_set/1.0.0": {
+        "runtime": {
+          "gerenciamento_estoque_com_encapsulamento_e_get_set.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gerenciamento_estoque_com_encapsulamento_e_get_set/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
