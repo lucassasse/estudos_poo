@@ -24,7 +24,7 @@ namespace gerenciamento_estoque {
             };
 
             Console.WriteLine();
-            Console.WriteLine("Dados do produto: " + p);
+            Console.WriteLine("Dados do produto: " + p1);
 
             Console.WriteLine();
             Console.WriteLine("Digite o número de produtos a ser adicionado:");
@@ -32,7 +32,7 @@ namespace gerenciamento_estoque {
             p.AdicionarProdutos(quantidade);
 
             Console.WriteLine();
-            Console.WriteLine("Dados atualizados do produto: " + p);
+            Console.WriteLine("Dados atualizados do produto: " + p1);
 
             Console.WriteLine();
             Console.Write("Digite o número de produtos a ser removido:");
@@ -40,7 +40,7 @@ namespace gerenciamento_estoque {
             p.RemoverProdutos(quantidade);
 
             Console.WriteLine();
-            Console.WriteLine("Dados atualizados do produto: " + p);
+            Console.WriteLine("Dados atualizados do produto: " + p1);
         }
     }
 }

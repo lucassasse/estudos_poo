@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\bin\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.exe
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\bin\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.deps.json
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\bin\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.runtimeconfig.json
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\bin\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\bin\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.dll
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\bin\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.pdb
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\obj\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\obj\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\obj\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\obj\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\obj\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.dll
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\obj\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.pdb
+C:\Users\Lucas\Desktop\CSharp\gerenciamento_conta_bancaria\obj\Debug\netcoreapp3.1\gerenciamento_conta_bancaria.genruntimeconfig.cache
