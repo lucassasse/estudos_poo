@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "vetores_preco_medio/1.0.0": {
+        "runtime": {
+          "vetores_preco_medio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vetores_preco_medio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

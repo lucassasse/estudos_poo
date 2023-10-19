@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\bin\Debug\netcoreapp3.1\vetores_altura_media.exe
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\bin\Debug\netcoreapp3.1\vetores_altura_media.deps.json
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\bin\Debug\netcoreapp3.1\vetores_altura_media.runtimeconfig.json
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\bin\Debug\netcoreapp3.1\vetores_altura_media.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\bin\Debug\netcoreapp3.1\vetores_altura_media.dll
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\bin\Debug\netcoreapp3.1\vetores_altura_media.pdb
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\obj\Debug\netcoreapp3.1\vetores_altura_media.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\obj\Debug\netcoreapp3.1\vetores_altura_media.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\obj\Debug\netcoreapp3.1\vetores_altura_media.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\obj\Debug\netcoreapp3.1\vetores_altura_media.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\obj\Debug\netcoreapp3.1\vetores_altura_media.dll
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\obj\Debug\netcoreapp3.1\vetores_altura_media.pdb
+C:\Users\Lucas\Desktop\CSharp\vetores_altura_media\obj\Debug\netcoreapp3.1\vetores_altura_media.genruntimeconfig.cache
